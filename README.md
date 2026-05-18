@@ -106,5 +106,3 @@ bash examples/ttrl/Llama-3.2-3B-Instruct/aime24_guard.sh
 
 *All experiments were conducted on 8 × NVIDIA A100 80GB GPUs.*
 
-
-"# TTRL-Guard" 
