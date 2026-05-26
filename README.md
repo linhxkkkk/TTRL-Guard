@@ -1,6 +1,6 @@
 <div align="center">
 
-# When the Majority Votes Wrong, the Intervention Timing for Test-Time Reinforcement Learning Hides in the Extinction Window
+# Detecting and Mitigating the Correct-Answer Extinction Window in Test-Time Reinforcement Learning with Majority Voting
 
 </div>
 
